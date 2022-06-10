@@ -7,7 +7,7 @@ allManagedDisks = filter tfplan.resource_changes as _, resource_changes {
 			resource_changes.change.actions is ["update"])
 }
 
-print("CIS 7.1: Ensure that managed disks are encrypted")
+print("NZISM control 17.1.54.R.01: Ensure that managed disks are encrypted at rest")
 
 deny_undefined_encryption_settings = rule {
 	all allManagedDisks as _, disks {
