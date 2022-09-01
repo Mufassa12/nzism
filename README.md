@@ -21,13 +21,13 @@ Outcomes and benefits that the adoption of cloud technologies will bring;
 - Data recovery on contract termination;
 - Cloud exit strategy and other contractual arrangements; and
 - A high level description of the foundation services that enable cloud adoption, including:
--- User, device and system identity;
--- Encryption and key management;
--- Information management;
--- Logging and alerting;
--- Incident management;
--- Managing privileged activities; and
--- Cost management.
+    - User, device and system identity;
+    - Encryption and key management;
+    - Information management;
+    - Logging and alerting;
+    - Incident management;
+    - Managing privileged activities; and
+    - Cost management.
 
 
 
