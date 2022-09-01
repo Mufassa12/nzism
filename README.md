@@ -5,6 +5,11 @@ Baseline controls are minimum acceptable levels of controls and are often descri
 
 ## NZISM controls delivered by Cloud Provider
 
+## 2.3.25.C.01.Control: System Classification(s): All Classifications; Compliance: MUST [CID:7045]
+Agencies intending to adopt public cloud technologies or services MUST develop a plan for how they intend to use these services.  This plan can be standalone or part of an overarching ICT strategy.
+
+
+
 # Azure
 17.1.53.C.03.Control:
 If an agency wishes to use encryption to reduce the storage, handling or physical transfer requirements for IT equipment or media that contains classified information, they MUST use:
