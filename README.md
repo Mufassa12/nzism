@@ -1,4 +1,4 @@
-# NZISM Sentinel Policy
+# NZISM Sentinel Policy As Code.
 
 New Zealand ISM Restricted Cloud Policy Initiative v3.5 (PolicyAsCode)
 
