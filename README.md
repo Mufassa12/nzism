@@ -29,7 +29,8 @@ Outcomes and benefits that the adoption of cloud technologies will bring;
     - Managing privileged activities; and
     - Cost management.
 
-## 2.3.26.Zero Trust2.3.26.R.01.Rationale
+# 2.3.26.Zero Trust
+## 2.3.26.R.01.Rationale
 Zero Trust is becoming the de-facto approach to ICT system security and is recommended by GCSB as the approach agencies should take, particularly as part of the adoption of cloud services.
 
 Zero Trust is a set of principles and outcomes, not an architecture or a solution.  You cannot ‘buy’ Zero Trust.
