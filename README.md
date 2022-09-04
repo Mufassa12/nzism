@@ -6,6 +6,8 @@ Baseline controls are minimum acceptable levels of controls and are often descri
 ### 1. About Information Security
 [Chapter 1] (../1.Aboutinformationsecurity/README.md)
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 # 2. Information Security Services within Government
 
 ## 2.3.25.C.01.Control: System Classification(s): All Classifications; Compliance: MUST [CID:7045]
