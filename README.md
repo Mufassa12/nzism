@@ -7,6 +7,8 @@ Baseline controls are minimum acceptable levels of controls and are often descri
 [Chapter 1] (AboutInformationSecurity/shaun.md)
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Chapter 1](docs/shaun.md)
+
 
 # 2. Information Security Services within Government
 
