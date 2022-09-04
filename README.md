@@ -3,7 +3,7 @@
 New Zealand ISM Restricted Cloud Policy Initiative v3.5
 Baseline controls are minimum acceptable levels of controls and are often described as “systems hygiene”.
 
-About Information Security
+# 1. About Information Security
 
 # 2. Information Security Services within Government
 
