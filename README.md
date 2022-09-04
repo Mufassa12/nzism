@@ -3,7 +3,7 @@
 New Zealand ISM Restricted Cloud Policy Initiative v3.5
 Baseline controls are minimum acceptable levels of controls and are often described as “systems hygiene”.
 
-[Abount Information Security](1. About information security/README.md)
+About Information Security
 
 # 2. Information Security Services within Government
 
@@ -52,10 +52,6 @@ Agencies intending to adopt public cloud technologies or services SHOULD incorpo
 
 ## 2.3.26.C.02.Control: System Classification(s): All Classifications; Compliance: SHOULD [CID:7050]
 Agencies SHOULD leverage public cloud environment native security services as part of legacy system migrations, in preference to recreating application architectures that rely on legacy perimeter controls for security.
-
-
-
-
 
 
 
