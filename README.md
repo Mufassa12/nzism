@@ -6,7 +6,6 @@ Baseline controls are minimum acceptable levels of controls and are often descri
 ### 1. About Information Security
 [Chapter 1] (AboutInformationSecurity/shaun.md)
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 [Chapter 1](docs/shaun.md)
 
 
