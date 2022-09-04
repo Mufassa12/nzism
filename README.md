@@ -54,6 +54,10 @@ Agencies SHOULD leverage public cloud environment native security services as pa
 
 
 
+
+
+
+
 # Azure
 17.1.53.C.03.Control:
 If an agency wishes to use encryption to reduce the storage, handling or physical transfer requirements for IT equipment or media that contains classified information, they MUST use:
