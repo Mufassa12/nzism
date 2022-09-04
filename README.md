@@ -7,12 +7,12 @@ Baseline controls are minimum acceptable levels of controls and are often descri
 [Understanding and using this Manual](docs/shaun.md)
 
 
-# 2. Information Security Services within Government
+### 2. Information Security Services within Government
 
-## 2.3.25.C.01.Control: System Classification(s): All Classifications; Compliance: MUST [CID:7045]
+#### 2.3.25.C.01.Control: System Classification(s): All Classifications; Compliance: MUST [CID:7045]
 Agencies intending to adopt public cloud technologies or services MUST develop a plan for how they intend to use these services.  This plan can be standalone or part of an overarching ICT strategy.
 
-## 2.3.25.C.02.Control: System Classification(s): All Classifications; Compliance: SHOULD [CID:7046]
+#### 2.3.25.C.02.Control: System Classification(s): All Classifications; Compliance: SHOULD [CID:7046]
 An agency’s cloud adoption plan SHOULD cover:
 
 Outcomes and benefits that the adoption of cloud technologies will bring;
@@ -33,8 +33,8 @@ Outcomes and benefits that the adoption of cloud technologies will bring;
     - Managing privileged activities; and
     - Cost management.
 
-# 2.3.26.Zero Trust
-## 2.3.26.R.01.Rationale
+### 2.3.26.Zero Trust
+#### 2.3.26.R.01.Rationale
 Zero Trust is becoming the de-facto approach to ICT system security and is recommended by GCSB as the approach agencies should take, particularly as part of the adoption of cloud services.
 
 Zero Trust is a set of principles and outcomes, not an architecture or a solution.  You cannot ‘buy’ Zero Trust.
@@ -46,13 +46,13 @@ Key aspects of Zero Trust focus on:
 Visibility (through telemetry) and analytics of how services are functioning – this comes through as focus on monitoring, event gathering and machine learning based analysis; and
 Automation of service delivery and security actions.
 
-## 2.3.26.R.02.Rationale
+#### 2.3.26.R.02.Rationale
 Public cloud services are often built following Zero Trust principles, and agencies will find adoption of this approach will lead to more successful security outcomes than trying to recreate legacy perimeter security controls in the cloud.
 
-## 2.3.26.C.01.Control: System Classification(s): All Classifications; Compliance: SHOULD [CID:7049]
+#### 2.3.26.C.01.Control: System Classification(s): All Classifications; Compliance: SHOULD [CID:7049]
 Agencies intending to adopt public cloud technologies or services SHOULD incorporate Zero Trust philosophies and concepts.
 
-## 2.3.26.C.02.Control: System Classification(s): All Classifications; Compliance: SHOULD [CID:7050]
+#### 2.3.26.C.02.Control: System Classification(s): All Classifications; Compliance: SHOULD [CID:7050]
 Agencies SHOULD leverage public cloud environment native security services as part of legacy system migrations, in preference to recreating application architectures that rely on legacy perimeter controls for security.
 
 
