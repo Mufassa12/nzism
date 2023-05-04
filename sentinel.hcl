@@ -1,9 +1,13 @@
 policy "compute-managed-disk-encryption" {
-    source = "./azure-17.1.53.C.03-compute-managed-disk-encryption-is-enabled.sentinel"
+    source = "./az-17.1.53.C.03-4-compute-managed-disk-encryption-is-enabled-at-rest.sentinel"
     enforcement_level = "advisory"
 }
 
 policy "encryption-at-rest" {
-    source = "./azure-17.1.54.C.01-Encrypting-NZEO-information-at-rest.sentinel"
+    source = "./az-17.1.53.C.03-4-compute-managed-disk-encryption-is-enabled-at-rest.sentinel"
     enforcement_level = "advisory"
+}
+
+policy "less-than-100-month" {
+    enforcement_level = "soft-mandatory"
 }

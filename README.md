@@ -38,9 +38,7 @@ Outcomes and benefits that the adoption of cloud technologies will bring;
 Zero Trust is becoming the de-facto approach to ICT system security and is recommended by GCSB as the approach agencies should take, particularly as part of the adoption of cloud services.
 
 Zero Trust is a set of principles and outcomes, not an architecture or a solution.  You cannot ‘buy’ Zero Trust.
-
 Zero Trust is compatible with other ICT outcomes, such as improved access to information, increased agility and better security.
-
 Key aspects of Zero Trust focus on:
 
 Visibility (through telemetry) and analytics of how services are functioning – this comes through as focus on monitoring, event gathering and machine learning based analysis; and
@@ -54,9 +52,6 @@ Agencies intending to adopt public cloud technologies or services SHOULD incorpo
 
 #### 2.3.26.C.02.Control: System Classification(s): All Classifications; Compliance: SHOULD [CID:7050]
 Agencies SHOULD leverage public cloud environment native security services as part of legacy system migrations, in preference to recreating application architectures that rely on legacy perimeter controls for security.
-
-
-
 
 # Azure
 17.1.53.C.03.Control:
