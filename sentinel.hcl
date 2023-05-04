@@ -9,5 +9,6 @@ policy "encryption-at-rest" {
 }
 
 policy "less-than-100-month" {
+    source = "./cost-management.sentinel"
     enforcement_level = "soft-mandatory"
 }
